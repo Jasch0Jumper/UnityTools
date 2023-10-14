@@ -2,7 +2,7 @@
     "name": "Jasch0Jumper.UnityTools.Editor",
     "rootNamespace": "Jasch0Jumper.UnityTools.Editor",
     "references": [
-        "GUID:c54128c16e5f9544e85f0b5fe15015d0"
+        "Jasch0Jumper.UnityTools"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

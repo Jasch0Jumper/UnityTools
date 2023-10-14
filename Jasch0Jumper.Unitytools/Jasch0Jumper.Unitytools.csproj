@@ -47,6 +47,8 @@
         <Folder Include="Scripts/Editor/" />
     </ItemGroup>
     <ItemGroup>
+      <Content Include="Properties.meta" />
+      <Content Include="Properties\AssemblyInfo.cs.meta" />
       <Content Include="Scripts\Editor\Jasch0Jumper.UnityTools.Editor.asmdef" />
       <Content Include="Scripts\Jasch0Jumper.UnityTools.asmdef" />
     </ItemGroup>

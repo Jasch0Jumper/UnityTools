@@ -1,4 +1,4 @@
-namespace Tara.AI
+namespace Jasch0Jumper.Unitytools
 {
 	public abstract class State<T> where T: StateMachine<T>
 	{

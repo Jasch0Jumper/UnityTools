@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace CI.Utilities
+namespace Jasch0Jumper.Unitytools
 {
 	public class Grid<T>
 	{

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Tara.AI
+namespace Jasch0Jumper.Unitytools
 {
 	public abstract class StateMachine<T> : MonoBehaviour where T: StateMachine<T>
 	{

@@ -1,4 +1,4 @@
-namespace CI.Utilities
+namespace Jasch0Jumper.Unitytools
 {
 	public struct GridPosition
 	{

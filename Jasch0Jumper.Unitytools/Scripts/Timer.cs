@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CI.Utilities
+namespace Jasch0Jumper.Unitytools
 {
 	public class Timer
 	{

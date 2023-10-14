@@ -1,7 +1,7 @@
-﻿using UnityEngine;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using UnityEngine;
 
-namespace CI.Utilities
+namespace Jasch0Jumper.Unitytools
 {
 	public class HorizontalRectBuilder 
 	{
